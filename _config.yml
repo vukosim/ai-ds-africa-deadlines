@@ -1,14 +1,14 @@
 title: AI/ML/DS Conference Deadlines 4 Africans # 
 # email: vukosi.marivate@cs.up.ac.za
 description: Countdowns to AI/ML/DS conference deadlines for Africans
-author: Mpho Mokoatle, Vukosi Marivate, Avashlin Moodley
+author: Mpho Mokoatle, Avashlin Moodley, Vukosi Marivate
 
 domain: "https://dsfsi.github.io/deadlines/"
 baseurl: "https://dsfsi.github.io/deadlines/"
 
-twitter_username: ds4si
+twitter_username: dsfsi
 twitter_hashtag: africanmachinelearning
-github_username: ds4si
+github_username: dsfsi
 github_repo: deadlines
 
 markdown: kramdown
