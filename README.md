@@ -1,6 +1,6 @@
 ## AI/ML/DS Deadlines 4 Africa 
 
-Countdowns to AI/ML/DS conference deadlines for Africans
+Countdowns to AI/ML/DS conference/workshop/event deadlines on the African continent
 
 ## Adding/updating a conference
 
