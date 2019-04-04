@@ -1,16 +1,4 @@
 ---
-- name: Machine Learning
-  sub: ML
-- name: Computer Vision
-  sub: CV
-- name: Natural Language Proc
-  sub: NLP
-- name: Robotics
-  sub: RO
-- name: Speech/SigProc
-  sub: SP
-- name: Data Mining
-  sub: DM
 - name: Research Conference
   sub: CON
 - name: Journal
@@ -19,4 +7,15 @@
   sub: WP
 - name: Industry
   sub: IND
-
+- name: Computer Vision
+  sub: CV
+- name: Data Mining
+  sub: DM
+- name: Machine Learning
+  sub: ML
+- name: Natural Language Proc
+  sub: NLP
+- name: Robotics
+  sub: RO
+- name: Speech/SigProc
+  sub: SP
