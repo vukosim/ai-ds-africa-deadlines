@@ -1,14 +1,5 @@
 ---
 
-- title: North African Machine Learning Summer School (NASSMA) 
-  year: 2019
-  id: NASSMA19
-  link: https://nassma.um6p.ma/
-  deadline: '2019-03-15 23:59:59'
-  timezone: GMT+2
-  date: June 24-29, 2019
-  place: Ben Guerir, Morocco
-  sub: ML
 - title: Deep Learning Indaba 
   year: 2019
   id: dl2019
@@ -54,4 +45,13 @@
   date: November 19-20, 2019
   place: Johannesburg, South Arica
   sub: ML
+- title: North African Machine Learning Summer School (NASSMA) 
+  year: 2019
+  id: NASSMA19
+  link: https://nassma.um6p.ma/
+  deadline: '2019-03-15 23:59:59'
+  timezone: GMT+2
+  date: June 24-29, 2019
+  place: Ben Guerir, Morocco
+  sub: ML, WP
 
