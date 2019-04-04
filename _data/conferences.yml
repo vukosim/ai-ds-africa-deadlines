@@ -8,16 +8,16 @@
   timezone: GMT+2
   date: August 25-31, 2019
   place: Nairobi, Kenya
-  sub: ML
-- title: Academics World 600th International Conference on Artificial Intelligence and Soft Computing (ICAISC) 
+  sub: WP
+- title: Data Science Africa 2019 [Addis[
   year: 2019
-  id: ICAISC2019
-  link: https://www.allconferencealert.com/event_detail.php?ev_id=215535
-  deadline: '2019-04-17 23:59:59'
+  id: dsa2019A
+  link: http://www.deeplearningindaba.com/
+#   deadline: '2019-06-2 23:59:59'
   timezone: GMT+2
-  date: May 25-26, 2019
-  place: Johannesburg, South Arica
-  sub: ML
+  date: June 3-7, 2019
+  place: Addis Ababa, Ethiopia
+  sub: WP
 - title: AI EXPO AFRICA 
   year: 2019
   id: aiexpo2019
@@ -26,16 +26,7 @@
   timezone: GMT+2
   date: September 04-05, 2019
   place: Cape Town, South Africa
-  sub: ML
-- title: 2019 IIER 683rd International Conference on Recent Innovations in Engineering and Technology (ICRIET)
-  year: 2019
-  id: ICRIET2019
-  link: http://theiier.org/Conference2019/SouthAfrica/2/ICRIET/index.php
-  deadline: '2019-06-17 23:59:59'
-  timezone: GMT+2
-  date: July 25-26, 2019
-  place: Johannesburg, South Arica
-  sub: CV
+  sub: IND
 - title: 6th International Conference on Soft Computing & Machine learning 
   year: 2019
   id: iscmi2019
@@ -44,7 +35,7 @@
   timezone: GMT+2
   date: November 19-20, 2019
   place: Johannesburg, South Arica
-  sub: ML
+  sub: CON
 - title: North African Machine Learning Summer School (NASSMA) 
   year: 2019
   id: NASSMA19
@@ -53,5 +44,5 @@
   timezone: GMT+2
   date: June 24-29, 2019
   place: Ben Guerir, Morocco
-  sub: ML, WP
+  sub: WP
 
