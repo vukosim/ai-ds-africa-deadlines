@@ -11,3 +11,10 @@
   sub: SP
 - name: Data Mining
   sub: DM
+- name: Conference
+  sub: CON
+- name: Journal
+  sub: JRN
+- name: Workshop
+  sub: WP
+
