@@ -45,4 +45,32 @@
   date: June 24-29, 2019
   place: Ben Guerir, Morocco
   sub: WP
+- title: IEEE AFRICON-2019
+  year: 2019
+  id: africon2019
+  link: http://africon2019.org/
+  deadline: '2019-05-14 23:59:59'
+  timezone: GMT+2
+  date: September 25-27, 2019
+  place: Accra, Ghana
+  sub: CON
+- title: South African Institute of Computer Scientists and Information Technologists (SAICSIT) Conference 2019
+  year: 2019
+  id: saicsit2019
+  link: https://saicsit2019.org.za
+  deadline: '2019-05-06 23:59:59'
+  timezone: GMT+2
+  date: September 17-18, 2019
+  place: Skukuza, South Africa
+  sub: CON
+- title: 2019 International Conference on Advances in Big Data, Computing and Data Communication Systems (icABCD)
+  year: 2019
+  id: icabcd2019
+  link: http://icabcd.org/2019/
+  deadline: '2019-02-28 23:59:59'
+  timezone: GMT+2
+  date: August 5-6, 2019
+  place: Drakensberg, South Africa
+  sub: CON
+
 
