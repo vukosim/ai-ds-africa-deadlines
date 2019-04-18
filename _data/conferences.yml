@@ -1,19 +1,18 @@
 ---
-
-- title: Deep Learning Indaba 
+- title: 6th International Conference on Soft Computing & Machine learning 
   year: 2019
-  id: dl2019
-  link: http://www.deeplearningindaba.com/
-  deadline: '2019-04-12 23:59:59'
+  id: iscmi2019
+  link: http://www.iscmi.us/
+  deadline: '2019-06-30 23:59:59'
   timezone: GMT+2
-  date: August 25-31, 2019
-  place: Nairobi, Kenya
-  sub: WP
+  date: November 19-20, 2019
+  place: Johannesburg, South Arica
+  sub: CON
 - title: Data Science Africa 2019 [Addis]
   year: 2019
   id: dsa2019A
   link: http://www.datascienceafrica.org/
-  deadline: '2019-06-2 23:59:59'
+  deadline: '2019-06-02 23:59:59'
   timezone: GMT+2
   date: June 3-7, 2019
   place: Addis Ababa, Ethiopia
@@ -27,24 +26,6 @@
   date: September 04-05, 2019
   place: Cape Town, South Africa
   sub: IND
-- title: 6th International Conference on Soft Computing & Machine learning 
-  year: 2019
-  id: iscmi2019
-  link: http://www.iscmi.us/
-  deadline: '2019-06-30 23:59:59'
-  timezone: GMT+2
-  date: November 19-20, 2019
-  place: Johannesburg, South Arica
-  sub: CON
-- title: North African Machine Learning Summer School (NASSMA) 
-  year: 2019
-  id: NASSMA19
-  link: https://nassma.um6p.ma/
-  deadline: '2019-03-15 23:59:59'
-  timezone: GMT+2
-  date: June 24-29, 2019
-  place: Ben Guerir, Morocco
-  sub: WP
 - title: IEEE AFRICON-2019
   year: 2019
   id: africon2019
@@ -63,6 +44,24 @@
   date: September 17-18, 2019
   place: Skukuza, South Africa
   sub: CON
+- title: Deep Learning Indaba 
+  year: 2019
+  id: dl2019
+  link: http://www.deeplearningindaba.com/
+  deadline: '2019-04-12 23:59:59'
+  timezone: GMT+2
+  date: August 25-31, 2019
+  place: Nairobi, Kenya
+  sub: WP
+- title: North African Machine Learning Summer School (NASSMA) 
+  year: 2019
+  id: NASSMA19
+  link: https://nassma.um6p.ma/
+  deadline: '2019-03-15 23:59:59'
+  timezone: GMT+2
+  date: June 24-29, 2019
+  place: Ben Guerir, Morocco
+  sub: WP
 - title: 2019 International Conference on Advances in Big Data, Computing and Data Communication Systems (icABCD)
   year: 2019
   id: icabcd2019
