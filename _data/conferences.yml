@@ -6,7 +6,16 @@
   deadline: '2019-06-30 23:59:59'
   timezone: GMT+2
   date: November 19-20, 2019
-  place: Johannesburg, South Arica
+  place: Johannesburg, South Africa
+  sub: CON
+- title: International Conference on Digital Health Technologies (ICDHT 2019)
+  year: 2019
+  id: ICDHT2019
+  link: http://www.icdht.org
+  deadline: '2019-06-15 23:59:59'
+  timezone: GMT+2
+  date: December 9-11, 2019
+  place: Hammamet, Tunisia
   sub: CON
 - title: Data Science Africa 2019 [Addis]
   year: 2019
