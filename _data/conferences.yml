@@ -8,6 +8,15 @@
   date: December 4-6, 2019
   place: Cape Town , South Africa
   sub: CON
+- title: South African Forum for Artificial Intelligence Research
+  year: 2019
+  id: isda2019
+  link: 19th International Conference on Intelligent Systems Design and Applications (ISDA)
+  deadline: '2019-09-01 23:59:59'
+  timezone: GMT+2
+  date: December 3-5, 2019
+  place: Pretoria, South Africa
+  sub: CON
 - title: 6th International Conference on Soft Computing & Machine learning 
   year: 2019
   id: iscmi2019
