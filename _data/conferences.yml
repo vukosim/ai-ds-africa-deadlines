@@ -17,6 +17,15 @@
   date: December 3-5, 2019
   place: Pretoria, South Africa
   sub: CON
+- title: 4th CAIR/UP Symposium AI for Social Good
+  year: 2019
+  id: CAIRAISG
+  link: http://www.cair.za.net/events
+  deadline: '2019-08-31 23:59:59'
+  timezone: GMT+2
+  date: October 3, 2019
+  place: Johannesburg, South Africa
+  sub: WP
 - title: 6th International Conference on Soft Computing & Machine learning 
   year: 2019
   id: iscmi2019
@@ -26,15 +35,6 @@
   date: November 19-20, 2019
   place: Johannesburg, South Africa
   sub: CON
-- title:4th CAIR/UP Symposium AI for Social Good
-  year: 2019
-  id: CAIRAISG
-  link: http://www.cair.za.net/events
-  deadline: '2019-08-31 23:59:59'
-  timezone: GMT+2
-  date: October 3, 2019
-  place: Johannesburg, South Africa
-  sub: WP
 - title: International Conference on Digital Health Technologies (ICDHT 2019)
   year: 2019
   id: ICDHT2019
