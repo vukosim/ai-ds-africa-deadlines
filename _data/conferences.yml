@@ -1,13 +1,4 @@
 ---
-- title: Data Science Africa 2019 [Accra, Ghana]
-  year: 2019
-  id: dsa2019Gh
-  link: http://www.datascienceafrica.org/dsa2019accra/
-  deadline: '2019-09-20 23:59:59'
-  timezone: GMT+2
-  date: October 21-25, 2019
-  place: Accra, Ghana
-  sub: WP
 - title: International Conference on Learning Representations
   year: 2020
   id: iclr2020
@@ -17,6 +8,15 @@
   date: April 26-30, 2020
   place: Addis Ababa, Ethiopia
   sub: CON
+- title: Data Science Africa 2019 [Accra, Ghana]
+  year: 2019
+  id: dsa2019Gh
+  link: http://www.datascienceafrica.org/dsa2019accra/
+  deadline: '2019-09-20 23:59:59'
+  timezone: GMT+2
+  date: October 21-25, 2019
+  place: Accra, Ghana
+  sub: WP
 - title: South African Forum for Artificial Intelligence Research
   year: 2019
   id: fair2019
