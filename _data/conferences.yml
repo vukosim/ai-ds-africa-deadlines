@@ -30,7 +30,7 @@
   year: 2019
   id: isda2019
   link: http://www.mirlabs.org/isda19/
-  deadline: '2019-09-01 23:59:59'
+  deadline: '2019-09-25 23:59:59'
   timezone: GMT+2
   date: December 3-5, 2019
   place: Pretoria, South Africa
@@ -39,7 +39,7 @@
   year: 2019
   id: CAIRAISG
   link: http://www.cair.za.net/events
-  deadline: '2019-08-31 23:59:59'
+  deadline: '2019-09-15 23:59:59'
   timezone: GMT+2
   date: October 3, 2019
   place: Johannesburg, South Africa
@@ -48,7 +48,7 @@
   year: 2019
   id: iscmi2019
   link: http://www.iscmi.us/
-  deadline: '2019-07-30 23:59:59'
+  deadline: '2019-09-25 23:59:59'
   timezone: GMT+2
   date: November 19-20, 2019
   place: Johannesburg, South Africa
