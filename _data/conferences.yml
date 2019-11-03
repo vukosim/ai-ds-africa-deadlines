@@ -1,4 +1,13 @@
 ---
+- title: Accelerator for Data and Decision Science 2020
+  year: 2020
+  id: XD2S2020
+  link: http://www.sun.ac.za/english/data-science-and-computational-thinking/xd2s
+  deadline: '2019-11-30 23:59:59'
+  timezone: GMT+2
+  date: January 20-February 08, 2020
+  place: Stellenbosch, South Africa
+  sub: WP
 - title: IST-Africa 2020
   year: 2020
   id: istafrica2020
