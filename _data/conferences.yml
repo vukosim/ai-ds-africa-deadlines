@@ -1,4 +1,13 @@
 ---
+- title: FUSION 2020
+  year: 2020
+  id: FUSION2020
+  link: https://fusion2020.org/
+  deadline: '2020-03-15 23:59:59'
+  timezone: GMT+2
+  date: July 6-July 9, 2020
+  place: Sun City, South Africa
+  sub: CON
 - title: Deep Learning IndabaX South Africa
   year: 2020
   id: DLXZA2020
