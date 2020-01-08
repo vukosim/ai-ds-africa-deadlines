@@ -1,13 +1,4 @@
 ---
-- title: AfricaNLP2020 workshop - AfricaNLP Unlocking Local Languages
-  year: 2020
-  id: AfricaNLP2020
-  link: https://easychair.org/cfp/africanlp2020workshop
-  deadline: '2020-02-01 23:59:59'
-  timezone: GMT+2
-  date: April 26, 2020
-  place: Addis Ababa, Ethiopia
-  sub: WP
 - title: FUSION 2020
   year: 2020
   id: FUSION2020
@@ -17,6 +8,24 @@
   date: July 6-July 9, 2020
   place: Sun City, South Africa
   sub: CON
+- title: Practical ML for Developing Countries: learning under limited/low resource scenarios
+  year: 2020
+  id: PML4DC2020
+  link: https://pml4dc.github.io/iclr2020/
+  deadline: '2020-02-02 23:59:59'
+  timezone: GMT+2
+  date: April 26, 2020
+  place: Addis Ababa, Ethiopia
+  sub: WP
+- title: AfricaNLP2020 workshop - AfricaNLP Unlocking Local Languages
+  year: 2020
+  id: AfricaNLP2020
+  link: https://easychair.org/cfp/africanlp2020workshop
+  deadline: '2020-02-01 23:59:59'
+  timezone: GMT+2
+  date: April 26, 2020
+  place: Addis Ababa, Ethiopia
+  sub: WP
 - title: Deep Learning IndabaX South Africa
   year: 2020
   id: DLXZA2020
