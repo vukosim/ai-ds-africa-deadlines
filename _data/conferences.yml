@@ -1,4 +1,13 @@
 ---
+- title: Insurance Data Science Conference - Africa
+  year: 2020
+  id: IDSCAFRICA2020
+  link: https://www.insurancedatascience.org.za/#idsc
+  deadline: '2020-02-29 23:59:59'
+  timezone: GMT+2
+  date: April 20, 2020
+  place: Johannesburg, South Africa
+  sub: CON
 - title: FUSION 2020
   year: 2020
   id: FUSION2020
