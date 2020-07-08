@@ -1,13 +1,4 @@
 ---
-- title: SACAIR 2020
-  year: 2020
-  id: SACAIR2020
-  link: http://sacair.org.za/
-  deadline: '2020-07-31 23:59:59'
-  timezone: GMT+2
-  date: December 1-December 4, 2020
-  place: Gauteng, South Africa
-  sub: CON
 - title: SAUTI YETU Unconference
   year: 2020
   id: SAUTINLP2020
@@ -17,6 +8,15 @@
   date: October 10, 2020
   place: Online
   sub: WP
+- title: SACAIR 2020
+  year: 2020
+  id: SACAIR2020
+  link: http://sacair.org.za/
+  deadline: '2020-07-31 23:59:59'
+  timezone: GMT+2
+  date: December 1-December 4, 2020
+  place: Gauteng, South Africa
+  sub: CON
 - title: SAICSIT 2020
   year: 2020
   id: SAICSIT2020
