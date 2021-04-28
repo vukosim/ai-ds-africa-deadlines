@@ -1,4 +1,22 @@
 ---
+- title: SACAIR 2021
+  year: 2021
+  id: SACAIR2021
+  link: http://sacair.org.za/
+  deadline: '2021-08-10 23:59:59'
+  timezone: GMT+2
+  date: December 6-December 10, 2021
+  place: South Africa
+  sub: CON
+- title: AFRICON 2021
+  year: 2021
+  id: AFRICON2021
+  link: https://africon2021.org/
+  deadline: '2021-04-30 23:59:59'
+  timezone: GMT+2
+  date: September 13-Septeber 15, 2021
+  place: Tanzania
+  sub: CON
 - title: SAUTI YETU Unconference
   year: 2020
   id: SAUTINLP2020
