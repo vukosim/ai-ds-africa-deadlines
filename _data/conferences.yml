@@ -1,5 +1,5 @@
 ---
-- title: SACAIR
+- title: Southern African Conference for Artificial Intelligence Research
   year: 2021
   id: SACAIR2021
   link: http://sacair.org.za/
@@ -7,6 +7,15 @@
   timezone: GMT+2
   date: December 6-December 10, 2021
   place: South Africa
+  sub: CON
+- title: 8th International Conference on Soft Computing & Machine learning 
+  year: 2021
+  id: iscmi2021
+  link: http://www.iscmi.us/
+  deadline: '2021-06-30 23:59:59'
+  timezone: GMT+2
+  date: November 26-27, 2021
+  place: Egypt
   sub: CON
 - title: Pan-African Artificial Intelligence and Smart Systems Conference
   year: 2021
