@@ -1,5 +1,220 @@
 ---
-
+- title: Southern African Conference for Artificial Intelligence Research
+  year: 2021
+  id: SACAIR2021
+  link: http://sacair.org.za/
+  deadline: '2021-08-10 23:59:59'
+  timezone: GMT+2
+  date: December 6-December 10, 2021
+  place: South Africa
+  sub: CON
+- title: 8th International Conference on Soft Computing & Machine learning 
+  year: 2021
+  id: iscmi2021
+  link: http://www.iscmi.us/
+  deadline: '2021-06-30 23:59:59'
+  timezone: GMT+2
+  date: November 26-27, 2021
+  place: Egypt
+  sub: CON
+- title: Pan-African Artificial Intelligence and Smart Systems Conference
+  year: 2021
+  id: PAISS2021
+  link: https://www.paaiss.com/
+  deadline: '2021-05-31 23:59:59'
+  timezone: GMT+2
+  date: October 7-October 9, 2021
+  place: Namibia
+  sub: CON
+- title: AFRICON
+  year: 2021
+  id: AFRICON2021
+  link: https://africon2021.org/
+  deadline: '2021-04-30 23:59:59'
+  timezone: GMT+2
+  date: September 13-Septeber 15, 2021
+  place: Tanzania
+  sub: CON
+- title: SAUTI YETU Unconference
+  year: 2020
+  id: SAUTINLP2020
+  link: https://sites.google.com/view/sautiyetu-nlp/
+  deadline: '2020-10-10 23:59:59'
+  timezone: GMT+2
+  date: October 10, 2020
+  place: Online
+  sub: WP
+- title: SACAIR 2020
+  year: 2020
+  id: SACAIR2020
+  link: http://sacair.org.za/
+  deadline: '2020-09-10 23:59:59'
+  timezone: GMT+2
+  date: February 22-February 26, 2021
+  place: Gauteng, South Africa
+  sub: CON
+- title: SAICSIT 2020
+  year: 2020
+  id: SAICSIT2020
+  link: https://fusion2020.org/
+  deadline: '2020-05-11 23:59:59'
+  timezone: GMT+2
+  date: September 14-September 9, 2020
+  place: Cape Town, South Africa
+  sub: CON
+- title: FUSION 2020
+  year: 2020
+  id: FUSION2020
+  link: https://fusion2020.org/
+  deadline: '2020-03-26 23:59:59'
+  timezone: GMT+2
+  date: July 6-July 9, 2020
+  place: Sun City, South Africa
+  sub: CON
+- title: Insurance Data Science Conference - Africa
+  year: 2020
+  id: IDSCAFRICA2020
+  link: https://www.insurancedatascience.org.za/#idsc
+  deadline: '2020-02-29 23:59:59'
+  timezone: GMT+2
+  date: April 20, 2020
+  place: Johannesburg, South Africa
+  sub: CON
+- title: workshop on Resources for African Indigenous Language (RAIL)
+  year: 2020
+  id: RAIL2020
+  link: https://www.sadilar.org/index.php/en/news/events/rail2020
+  deadline: '2020-02-16 23:59:59'
+  timezone: GMT+2
+  date: May 16, 2020
+  place: Addis Ababa, Ethiopia
+  sub: WP
+- title: Practical ML for Developing Countries - learning under limited/low resource scenarios
+  year: 2020
+  id: PML4DC2020
+  link: https://pml4dc.github.io/iclr2020/
+  deadline: '2020-02-14 23:59:59'
+  timezone: GMT+2
+  date: April 26, 2020
+  place: Addis Ababa, Ethiopia
+  sub: WP
+- title: AfricaNLP2020 workshop - AfricaNLP Unlocking Local Languages
+  year: 2020
+  id: AfricaNLP2020
+  link: https://easychair.org/cfp/africanlp2020workshop
+  deadline: '2020-02-14 23:59:59'
+  timezone: GMT+2
+  date: April 26, 2020
+  place: Addis Ababa, Ethiopia
+  sub: WP
+- title: Deep Learning IndabaX South Africa
+  year: 2020
+  id: DLXZA2020
+  link: https://indabax.co.za/
+  deadline: '2020-01-31 23:59:59'
+  timezone: GMT+2
+  date: March 25-March 27, 2020
+  place: Pretoria, South Africa
+  sub: WP
+- title: Accelerator for Data and Decision Science 2020
+  year: 2020
+  id: XD2S2020
+  link: http://www.sun.ac.za/english/data-science-and-computational-thinking/xd2s
+  deadline: '2019-11-30 23:59:59'
+  timezone: GMT+2
+  date: January 20-February 08, 2020
+  place: Stellenbosch, South Africa
+  sub: WP
+- title: IST-Africa 2020
+  year: 2020
+  id: istafrica2020
+  link: http://www.ist-africa.org/conference2020/default.asp?page=welcome
+  deadline: '2019-12-09 23:59:59'
+  timezone: GMT+2
+  date: May 06-08, 2020
+  place: Kampala, Uganda
+  sub: CON
+- title: SAUPEC/RobMech/PRASA
+  year: 2020
+  id: prasa2020
+  link: http://www.prasa.org/
+  deadline: '2019-10-14 23:59:59'
+  timezone: GMT+2
+  date: January 29-31, 2020
+  place: Cape Town, South Africa
+  sub: CON
+- title: International Conference on Learning Representations
+  year: 2020
+  id: iclr2020
+  link: https://iclr.cc/
+  deadline: '2019-09-25 23:59:59'
+  timezone: GMT+2
+  date: April 26-30, 2020
+  place: Addis Ababa, Ethiopia
+  sub: CON
+- title: Data Science Africa 2019 [Accra, Ghana]
+  year: 2019
+  id: dsa2019Gh
+  link: http://www.datascienceafrica.org/dsa2019accra/
+  deadline: '2019-09-20 23:59:59'
+  timezone: GMT+2
+  date: October 21-25, 2019
+  place: Accra, Ghana
+  sub: WP
+- title: South African Forum for Artificial Intelligence Research
+  year: 2019
+  id: fair2019
+  link: https://www.fair2019.org.za/
+  deadline: '2019-09-15 23:59:59'
+  timezone: GMT+2
+  date: December 4-6, 2019
+  place: Cape Town , South Africa
+  sub: CON
+- title: 19th International Conference on Intelligent Systems Design and Applications (ISDA)
+  year: 2019
+  id: isda2019
+  link: http://www.mirlabs.org/isda19/
+  deadline: '2019-09-25 23:59:59'
+  timezone: GMT+2
+  date: December 3-5, 2019
+  place: Pretoria, South Africa
+  sub: CON
+- title: 4th CAIR/UP Symposium AI for Social Good
+  year: 2019
+  id: CAIRAISG
+  link: http://www.cair.za.net/events
+  deadline: '2019-09-15 23:59:59'
+  timezone: GMT+2
+  date: October 3, 2019
+  place: Johannesburg, South Africa
+  sub: WP
+- title: 6th International Conference on Soft Computing & Machine learning 
+  year: 2019
+  id: iscmi2019
+  link: http://www.iscmi.us/
+  deadline: '2019-09-25 23:59:59'
+  timezone: GMT+2
+  date: November 19-20, 2019
+  place: Johannesburg, South Africa
+  sub: CON
+- title: International Conference on Digital Health Technologies (ICDHT 2019)
+  year: 2019
+  id: ICDHT2019
+  link: http://www.icdht.org
+  deadline: '2019-06-15 23:59:59'
+  timezone: GMT+2
+  date: December 9-11, 2019
+  place: Hammamet, Tunisia
+  sub: CON
+- title: Data Science Africa 2019 [Addis]
+  year: 2019
+  id: dsa2019A
+  link: http://www.datascienceafrica.org/
+  deadline: '2019-06-02 23:59:59'
+  timezone: GMT+2
+  date: June 3-7, 2019
+  place: Addis Ababa, Ethiopia
+  sub: WP
 - title: AI EXPO AFRICA 
   year: 2019
   id: aiexpo2019
@@ -8,43 +223,25 @@
   timezone: GMT+2
   date: September 04-05, 2019
   place: Cape Town, South Africa
-  sub: ML
-- title: North African Machine Learning Summer School (NASSMA) 
+  sub: IND
+- title: IEEE AFRICON-2019
   year: 2019
-  id: NASSMA19
-  link: https://nassma.um6p.ma/
-  deadline: '2019-03-15 23:59:59'
+  id: africon2019
+  link: http://africon2019.org/
+  deadline: '2019-05-31 23:59:59'
   timezone: GMT+2
-  date: June 24-29, 2019
-  place: Ben Guerir, Morocco
-  sub: ML
-- title: 6th International Conference on Soft Computing & Machine learning 
+  date: September 25-27, 2019
+  place: Accra, Ghana
+  sub: CON
+- title: South African Institute of Computer Scientists and Information Technologists (SAICSIT) Conference 2019
   year: 2019
-  id: iscmi2019
-  link: http://www.iscmi.us/
-  deadline: '2019-06-30 23:59:59'
+  id: saicsit2019
+  link: https://saicsit2019.org.za
+  deadline: '2019-05-06 23:59:59'
   timezone: GMT+2
-  date: November 19-20, 2019
-  place: Johannesburg, South Arica
-  sub: ML
-- title: Academics World 600th International Conference on Artificial Intelligence and Soft Computing (ICAISC) 
-  year: 2019
-  id: ICAISC2019
-  link: https://www.allconferencealert.com/event_detail.php?ev_id=215535
-  deadline: '2019-04-17 23:59:59'
-  timezone: GMT+2
-  date: May 25-26, 2019
-  place: Johannesburg, South Arica
-  sub: ML
-- title: 2019 IIER 683rd International Conference on Recent Innovations in Engineering and Technology (ICRIET)
-  year: 2019
-  id: ICRIET2019
-  link: http://theiier.org/Conference2019/SouthAfrica/2/ICRIET/index.php
-  deadline: '2019-06-17 23:59:59'
-  timezone: GMT+2
-  date: July 25-26, 2019
-  place: Johannesburg, South Arica
-  sub: CV
+  date: September 17-18, 2019
+  place: Skukuza, South Africa
+  sub: CON
 - title: Deep Learning Indaba 
   year: 2019
   id: dl2019
@@ -53,5 +250,22 @@
   timezone: GMT+2
   date: August 25-31, 2019
   place: Nairobi, Kenya
-  sub: ML
-
+  sub: WP
+- title: North African Machine Learning Summer School (NASSMA) 
+  year: 2019
+  id: NASSMA19
+  link: https://nassma.um6p.ma/
+  deadline: '2019-03-15 23:59:59'
+  timezone: GMT+2
+  date: June 24-29, 2019
+  place: Ben Guerir, Morocco
+  sub: WP
+- title: 2019 International Conference on Advances in Big Data, Computing and Data Communication Systems (icABCD)
+  year: 2019
+  id: icabcd2019
+  link: http://icabcd.org/2019/
+  deadline: '2019-02-28 23:59:59'
+  timezone: GMT+2
+  date: August 5-6, 2019
+  place: Drakensberg, South Africa
+  sub: CON

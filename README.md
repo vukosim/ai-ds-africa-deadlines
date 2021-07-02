@@ -1,10 +1,8 @@
 ## AI/ML/DS Deadlines 4 Africa 
 
-Countdowns to AI/ML/DS conference deadlines for Africans
+Countdowns to AI/ML/DS conference/workshop/event deadlines on the African continent
 
-## Adding/updating a conference
-
-To keep things minimal, I'm only looking to list top-tier conferences in AI as per [conferenceranks.com][6]. Feel free to maintain a separate fork if you don't see your sub-field or conference of interest listed.
+## Adding/updating a conference/workshop/event
 
 To add or update information:
 - Fork the repository
@@ -12,6 +10,9 @@ To add or update information:
 - Make sure it has the `title`, `year`, `id`, `link`, `deadline`, `timezone`, `date`, `place`, `sub` attributes
     + See available timezone strings [here](https://momentjs.com/timezone/).
 - Send a pull request
+
+## Original Repo
+- http://aideadlin.es/
 
 ## Forks & other useful listings
 
